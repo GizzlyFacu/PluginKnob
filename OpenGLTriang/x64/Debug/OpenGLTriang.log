@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\usuario\Documents\Programacion\OpenGL Plugin\main.cpp(289,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usuario\Documents\Programacion\OpenGL Plugin\main.cpp(289,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  OpenGLTriang.vcxproj -> C:\Users\usuario\Documents\Programacion\OpenGL Plugin\x64\Debug\OpenGLTriang.exe
